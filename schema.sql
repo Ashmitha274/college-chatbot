@@ -3,7 +3,6 @@
 -- =========================
 
 -- Connect to college-student database
-\c "college-student"
 
 -- =========================
 -- Enums
